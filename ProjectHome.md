@@ -1,0 +1,1 @@
+This project is for Windows Mobile 6 application to help you record weight daily.
